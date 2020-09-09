@@ -40,7 +40,7 @@ header {
 }
 
 .nav_links li a {
-    transition: color 0.15s ease 0s;;
+    transition: color 0.15s ease 0s;
 }
 
 .nav_links li a:hover {
